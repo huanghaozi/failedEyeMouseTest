@@ -1,0 +1,13 @@
+Input:./test.jpg
+Input full path:D:\learnTorch\test.jpg
+Camera parameters:500,500,320,240
+Output HOG:test.hog
+Output video:test.avi
+Output aligned directory:test_aligned
+Output csv:test.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
